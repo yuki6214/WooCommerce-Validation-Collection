@@ -1,0 +1,2 @@
+# WooCommerce-Validation-Collection
+WooCommerceプラグインとWooCommerce for Japanプラグインとcustomer-reviews-woocommerceとyith-woocommerce-wishlistのバリデーション関連ファイルを収集し、整理したものです。登録フォームのカスタマイズに必要な検証ルールを把握し、開発効率の向上を目指します。
